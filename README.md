@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nuzhat Nasrum</h1>
-<h3 align="center">A passionate Software Engineering student who thrives on collaboration and loves exchanging knowledge!</h3>
+<h1 align="center">Hi 👋, This is Nuzhat Nasrum</h1>
+<h2 align="left">A passionate Software Engineering student who thrives on collaboration and loves exchanging knowledge!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuzhat-16&label=Profile%20views&color=0e75b6&style=flat" alt="nuzhat-16" /> </p>
 
