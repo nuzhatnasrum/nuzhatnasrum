@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Nuzhat Nasrum</h1>
-<h2 align="left">A passionate Software Engineering student who thrives on collaboration and loves exchanging knowledge!</h2>
+<h4 align="left">A passionate Software Engineering student who thrives on collaboration and loves exchanging knowledge!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuzhat-16&label=Profile%20views&color=0e75b6&style=flat" alt="nuzhat-16" /> </p>
 
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuzhat-16&show_icons=true&locale=en" alt="nuzhat-16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuzhat-16&" alt="nuzhat-16" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nuzhat-16&" alt="nuzhat-16" /></p>
